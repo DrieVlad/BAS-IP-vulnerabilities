@@ -12,10 +12,8 @@ Web interface administrator credentials required.
 3. Find the cleartext password in the received HTTP response
 
 <img width="291" alt="Снимок экрана 2024-06-20 в 00 13 47" src="https://github.com/DrieVlad/BAS-IP-vulnerabilities/assets/43147263/dd0fe40b-2dea-4976-801b-3476d564f5e5">
-
-
-To fix the vulnerability, install the update.
-
+  
+  
 ## Remediation
 Update firmware to version 3.9.2 or later. 
 Details on the official website. https://bas-ip.com/bsa-000001
